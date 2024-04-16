@@ -1,0 +1,157 @@
+body{
+    background-color: black;
+}
+
+.conteiner{
+    margin: auto;
+    position: relative;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+}
+
+.div1{
+    background-color: #2d00f7;
+    border-radius: 50px;
+    position: relative;
+    z-index: 1;
+    top: 7.7cm;
+    left: 2mm;
+}
+
+.div2{
+    background-color: #6a00f4;
+    border-radius: 50px;
+    position: relative;
+    z-index: 2;
+    top: 58mm;
+    right: 3mm;
+}
+
+.div3{
+    background-color: #8900f2;
+    border-radius: 50px;
+    position: relative; 
+    z-index: 3;
+    top: 40mm;
+    right: 7mm;
+}
+
+.div4{
+    background-color: #a100f2;
+    border-radius: 50px;
+    position: relative;
+    z-index: 4;
+    top: 23mm;
+    right: 6mm;
+}
+
+.div5{
+    background-color: #b100e8;
+    border-radius: 50px;
+    position: relative;
+    z-index: 4;
+    top: 6mm;
+    left: 1mm;
+}
+
+.div6{
+    background-color: #BC00DD;
+    border-radius: 50px;
+    position: relative;
+    z-index: 4;
+    bottom: 11mm;
+    left: 11mm;
+}
+
+.div7{
+    background-color: #D100D1;
+    border-radius: 50px;
+    position: relative;
+    z-index: 4;
+    bottom: 29mm;
+    left: 20mm;
+}
+
+.div8{
+    background-color: #DB00B6;
+    border-radius: 50px;
+    position: relative;
+    z-index: 4;
+    bottom: 47mm;
+    left: 30mm;
+}
+
+.div9{
+    background-color: #E500A4;
+    border-radius: 50px;
+    position: relative;
+    z-index: 4;
+    bottom: 63mm;
+    left: 41mm;   
+}
+
+.div10{
+    background-color: #F20089;
+    border-radius: 50px;
+    position: relative;
+    z-index: 4;
+    bottom: 79mm;
+    left: 47mm;
+}
+
+.div11{
+    background-color: #f90077;
+    border-radius: 50px;
+    position: relative;
+    z-index: 4;
+    bottom: 93mm;
+    left: 44mm;
+}
+
+.div12{
+    background-color: #fd0064;
+    border-radius: 50px;
+    position: relative;
+    z-index: 4;
+    bottom: 106mm;
+    left: 34mm;
+}
+
+.div13{
+    background-color: #ff0050;
+    border-radius: 50px;
+    position: relative;
+    z-index: 4;
+    bottom: 123mm;
+    left: 24mm;
+}
+
+.div14{
+    background-color: #fe003c;
+    border-radius: 50px;
+    position: relative;
+    z-index: 4;
+    bottom: 141mm;
+    left: 12mm;
+}
+
+.div15{
+    background-color: #fb0024;
+    border-radius: 50px;
+    position: relative;
+    z-index: 4;
+    bottom: 160mm;
+    left: 1mm;
+}
+
+.div16{
+    background-color: #f50000;
+    border-radius: 50px;
+    position: relative;
+    z-index: 4;
+    bottom: 183mm;
+    right: 1cm;
+}
